@@ -8,5 +8,4 @@ class Solution:
                 if letter > target:
                     ans += letter
                     break
-
         return ans
